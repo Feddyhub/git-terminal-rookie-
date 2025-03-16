@@ -1,7 +1,7 @@
 import requests
 from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
-
+print("Hello world")
 # Telegram botunuzun token'ını buraya ekleyin
 TOKEN = "7268436456:AAFXPpiYEAHN319bGrrMkzzYsysnst3i77M"
 
