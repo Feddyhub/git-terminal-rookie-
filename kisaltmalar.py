@@ -29,8 +29,6 @@ def main():
     
     save_to_excel(formatted_data)
 
-    print("Hello world git denemesi")
-    print("Yanlis yaptin geri don ve tum printleri sil")
-
+  
 if __name__ == "__main__":
     main()
